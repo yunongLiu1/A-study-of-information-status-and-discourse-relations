@@ -3,7 +3,7 @@
 
 # Instructions
 ## To run the executable file
-1. Download the executable file app.exe from the repo. [app.exe](href="https://github.com/yunongLiu1/A-study-of-information-status-and-discourse-relations/blob/main/app")
+1. Download the executable file app.exe from the repo. [app.exe](href="https://github.com/yunongLiu1/A-study-of-information-status-and-discourse-relations/blob/main/app.zip")
 2. Open the command line and navigate to the directory where the app.exe is located.
 3. run the executable file with the following command to get the output file with the following name: "full_set_DRels_preposed_constits.txt" in the same directory with the executable file.
 ```
