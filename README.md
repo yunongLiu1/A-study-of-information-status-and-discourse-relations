@@ -13,7 +13,7 @@
 
 For example:
 ```
-./app ./data/pdtb_v2.0/PDTB-3.0-version2 ./data/decorated_Ss_with_preposed_NP-or-PP_no_blank.txt 
+./app ./data/PDTB-3.0-version2 ./data/decorated_Ss_with_preposed_NP-or-PP_no_blank.txt 
 ```
 The output file will be generated in the same directory as the executable file with the name "full_set_DRels_preposed_constits.txt". 
 
@@ -26,7 +26,7 @@ run the following command to get the output file with customized name and locati
 
 For example:
 ```
-./app ./data/pdtb_v2.0/PDTB-3.0-version2 ./data/decorated_Ss_with_preposed_NP-or-PP_no_blank.txt ./data/output.txt
+./app ./data/PDTB-3.0-version2 ./data/decorated_Ss_with_preposed_NP-or-PP_no_blank.txt ./data/output.txt
 ```
 
 1. The number of DRel and path of the output file will be displayed in the terminal.
